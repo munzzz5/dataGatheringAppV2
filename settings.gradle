@@ -1,0 +1,2 @@
+rootProject.name = "dataGatheringAppV2"
+include ':app'
